@@ -16,3 +16,11 @@ Citizen.CreateThread(function()
 		end
     end
 end)
+
+function hideminimap()
+    DisplayRadar(false);
+end
+
+function showminimap()
+    DisplayRadar(true);
+end
