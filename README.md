@@ -14,3 +14,10 @@ Add 'start OCRP_postal_map' to server.cfg
 Start your server.
 
 Enjoy!
+
+Exports;
+Very simply code simply added due to a suggestion. (ocrp#6)
+
+'hideminimap'
+
+'showminimap'
