@@ -1,5 +1,7 @@
 fx_version 'adamant'
 game 'gta5'
+description 'OCRP Based Postal Map for FiveM (Forked and Fixed)'
+author 'ocrp + nick_reagan'
 
 this_is_a_map 'yes'
 
