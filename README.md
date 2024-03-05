@@ -4,7 +4,7 @@
 ![image](https://github.com/alberttheprince/postal_map/assets/85725579/333f9b09-9158-4314-81dc-01765beab7f1)
 
 
-if  you're using:  [https://forum.cfx.re/t/release-nearest-postal-script/293511/260?u=noor_nahas](https://github.com/DevBlocky/nearest-postal)
+if  you're using:  [nearest-postal](https://github.com/DevBlocky/nearest-postal)
 
 Add {"code":"100","y":-1267.01,"x":288.83}, to the ocrp-postal json postals.
 
